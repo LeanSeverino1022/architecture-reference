@@ -3,4 +3,4 @@ Application Architecture- patterns &amp; practices reference
 
 ## pub_sub_with_jquery
 * [Readme](pub_sub_with_jquery/README.md)
-* [js file](pub_sub_with_jquery/pubsub.js)
+* [project directory](https://github.com/LeanSeverino1022/architecture-reference/tree/master/pub_sub_with_jquery)
