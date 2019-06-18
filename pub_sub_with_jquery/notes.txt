@@ -1,0 +1,8 @@
+yih
+created:
+resources: 
+
+A jQuery Pub Sub Implementation
+https://javascriptplayground.com/a-jquery-pub-sub-implementation/
+
+evernote notes: A jQuery Pub Sub Implementation
